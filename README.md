@@ -13,7 +13,7 @@ These things are require to install this app
 ``
 install phonegap
 ``
-
+## Phonegap Desktop App [![Build Status](https://travis-ci.org/phonegap/phonegap-app-desktop.svg?branch=master)](https://travis-ci.org/phonegap/phonegap-app-desktop) [![bitHound Score](https://www.bithound.io/github/phonegap/phonegap-app-desktop/badges/score.svg)](https://www.bithound.io/github/phonegap/phonegap-app-desktop)
 Create an application on phonegap then copy paste these files into it.
 
 
